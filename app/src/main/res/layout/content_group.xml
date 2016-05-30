@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?attr/colorPrimary"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.unice.myblizzardcontact.activities.group.GroupActivity"
+    tools:showIn="@layout/activity_group">
+
+    <FrameLayout
+        android:id="@+id/frameLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="100dp"
+        android:background="?attr/colorPrimaryDark">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="99dp"
+            android:layout_gravity="top"
+            android:background="?attr/colorPrimary"
+            android:foregroundGravity="top">
+
+            <TextView
+                android:id="@+id/name_group_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/favorite_icon_id"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_gravity="left|center_vertical"
+                android:layout_marginLeft="20dp"
+                android:contentDescription="@string/activity_group_favorite_icon"
+                android:src="@drawable/heart_full_icons" />
+
+            <ImageView
+                android:id="@+id/send_message_icon_id"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_gravity="right|center_vertical"
+                android:layout_marginRight="20dp"
+                android:contentDescription="@string/activity_group_sens_sms"
+                android:src="@drawable/send_message_icons" />
+        </FrameLayout>
+    </FrameLayout>
+
+    <ListView
+        android:id="@+id/list_member_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/frameLayout"
+        tools:listitem="@layout/item_group" />
+
+</RelativeLayout>

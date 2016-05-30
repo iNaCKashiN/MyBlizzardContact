@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">My Blizzard Contact</string>
+
+    <!-- *************************** Blizzard game name ***************************-->
+    <string name="overwatch_name">Overwatch</string>
+    <string name="starcraft_name">StarCraft</string>
+    <string name="wow_name">Wow</string>
+    <string name="hots_name">Hots</string>
+    <string name="diablo_name">Diablo</string>
+    <string name="hearthstone_name">Hearthstone</string>
+
+    <!-- *************************** Profile Activity ***************************-->
+    <string name="activity_profile_action_settings">Settings profile</string>
+    <string name="activity_profile_name_activity">My profile</string>
+    <string name="activity_profile_photo">Profile photo</string>
+    <string name="activity_profile_description">Description :</string>
+    <string name="activity_profile_comment">Comment :</string>
+    <string name="activity_profile_favorite">favorite :</string>
+    <string name="activity_profile_sex">Sex :</string>
+    <string name="activity_profile_sex_male">Male</string>
+    <string name="activity_profile_sex_female">Female</string>
+    <string name="activity_profile_games">Games :</string>
+    <string name="activity_profile_btag">BTag :</string>
+    <string name="activity_profile_pseudo">Pseudo :</string>
+    <string name="activity_profile_email">Email :</string>
+    <string name="activity_profile_firstname">FirstName :</string>
+    <string name="activity_profile_name">Name :</string>
+    <string name="activity_profile_phone">Phone :</string>
+    <string name="activity_profile_fields">Fields</string>
+    <string name="activity_profile_values">Values</string>
+    <string name="activity_profile_groups">Groups</string>
+    <string name="activity_profile_contacts">Contacts</string>
+    <string name="activity_profile_share_profile">Share profile</string>
+    <string name="activity_profile_delete_profile">Share profile</string>
+    <string name="activity_profile_photo_description">Profile photo</string>
+    <string name="activity_profile_share_icon_description">Share or not the fields when you share your contact</string>
+    <string name="title_activity_profile_setting">Profile Setting</string>
+
+    <!-- *************************** Profile Setting Activity ***************************-->
+    <string name="activity_profile_setting_photo_icon">Take a photo profile</string>
+    <string name="activity_profile_setting_action_save">Save the modification user</string>
+
+    <!-- *************************** Photo Activity ***************************-->
+    <string name="title_activity_photo">Photo</string>
+    <string name="activity_photo_gallery">From gallery</string>
+    <string name="activity_photo_take_photo">Take photo</string>
+    <string name="activity_photo_save_icon">Save the new photo</string>
+
+    <!-- *************************** Contacts Activity ***************************-->
+    <string name="title_activity_contacts">Contacts</string>
+    <string name="activity_contacts_add_contact">Add contact</string>
+    <string name="activity_contacts_show_option_sort">Show Option sort</string>
+    <string name="activity_contacts_name">Name</string>
+    <string name="activity_contacts_sort_by">Sort by :</string>
+
+    <!-- *************************** Groups Activity ***************************-->
+    <string name="title_activity_groups">Groups</string>
+    <string name="activity_groups_add_group">Add Group</string>
+    <string name="activity_groups_number_of_people">Number of people</string>
+    <string name="activity_groups_group_is_favorite">Group is favorite</string>
+    <string name="activity_groups_show_option_sort">Show Option sort</string>
+    <string name="activity_groups_sort_by">Sort by :</string>
+    <string name="activity_groups_name">Name</string>
+
+    <!-- *************************** Contact profile Activity ***************************-->
+    <string name="title_activity_contact_profile">Contact Profile</string>
+    <string name="activity_contact_profile_favorite_icon">Say if the friend is favorite</string>
+    <string name="activity_contact_profile_comment">Comment :</string>
+
+    <!-- *************************** Contact profile Setting Activity ***************************-->
+    <string name="title_activity_contacts_setting">Contacts Setting</string>
+    <string name="activity_contacts_profile_setting_photo_icon">Take a photo profile for your friend</string>
+    <string name="activity_contacts_profile_setting_action_save">Save the modification of the friend</string>
+    <string name="activity_contacts_profile_setting_favorite">Set if the friend is favorite</string>
+
+    <!-- *************************** Group Activity ***************************-->
+    <string name="title_activity_group">Group</string>
+    <string name="activity_group_favorite_icon">View if the group is favorite</string>
+    <string name="activity_group_sens_sms">Send a message to the group</string>
+
+    <!-- *************************** Sms Group Activity ***************************-->
+    <string name="title_activity_sms_group">SmsGroup</string>
+    <string name="activity_sms_message">Message :</string>
+    <string name="activity_sms_send_sms">Send sms</string>
+    <string name="activity_sms_group_setting">Setting sms</string>
+
+    <!-- *************************** Add new friend Activity ***************************-->
+    <string name="title_activity_add_contact">AddContactActivity</string>
+    <string name="activity_add_friend">Add the new contact</string>
+    <string name="title_activity_share">Share Profile</string>
+    <string name="activity_share_to">To :</string>
+    <string name="activity_share_new_phone">Add a new phone number</string>
+    <string name="activity_share_share_your_profile">Share your profile</string>
+
+
+</resources>

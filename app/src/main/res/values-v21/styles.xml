@@ -1,0 +1,48 @@
+<resources>
+    <!-- *************************** HOTS ***************************-->
+    <style name="AppTheme.Base.Hots" parent="AppTheme.Hots">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <!-- *************************** Wow ***************************-->
+    <style name="AppTheme.Base.Wow" parent="AppTheme.Wow">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+    <!-- *************************** Diablo ***************************-->
+    <style name="AppTheme.Base.Diablo" parent="AppTheme.Diablo">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <!-- *************************** StarCraft ***************************-->
+    <style name="AppTheme.Base.StarCraft" parent="AppTheme.StarCraft">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <!-- *************************** Hearthstone ***************************-->
+    <style name="AppTheme.Base.Hearthstone" parent="AppTheme.Hearthstone">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <!-- *************************** Overwatch ***************************-->
+    <style name="AppTheme.Base.Overwatch" parent="AppTheme.Overwatch">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>

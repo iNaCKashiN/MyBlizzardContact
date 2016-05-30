@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color 500 || Dark color 700 || Light color 300 || Accent 400 -->
+    <color name="colorHotsPrimary">@color/colorDeepPurple</color>
+    <color name="colorHotsPrimaryLight">#9575cd</color>
+    <color name="colorHotsPrimaryDark">#512da8</color>
+    <color name="colorHotsAccent">#81d4fa</color>
+
+    <color name="colorWowPrimary">@color/colorBrown</color>
+    <color name="colorWowPrimaryLight">#a1887f</color>
+    <color name="colorWowPrimaryDark">#544037</color>
+    <color name="colorWowAccent">#ffca28</color>
+
+    <color name="colorDiabloPrimary">@color/colorBlueGrey</color>
+    <color name="colorDiabloPrimaryLight">#90a4ae</color>
+    <color name="colorDiabloPrimaryDark">#455a64</color>
+    <color name="colorDiabloAccent">#D4e157</color>
+
+    <color name="colorStarCraftPrimary">@color/colorBlue</color>
+    <color name="colorStarCraftPrimaryLight">#64b5f6</color>
+    <color name="colorStarCraftPrimaryDark">#1976d2</color>
+    <color name="colorStarCraftAccent">#4fc3f7</color>
+
+    <color name="colorHearthstonePrimary">@color/colorAmber</color>
+    <color name="colorHearthstonePrimaryLight">#ffd54f</color>
+    <color name="colorHearthstonePrimaryDark">#ffa000</color>
+    <color name="colorHearthstoneAccent">#ef5350</color>
+
+    <color name="colorOverwatchPrimary">@color/colorGrey</color>
+    <color name="colorOverwatchPrimaryLight">#e0e0e0</color>
+    <color name="colorOverwatchPrimaryDark">#616161</color>
+    <color name="colorOverwatchAccent">#29b6f6</color>
+
+    <color name="colorPrimaryTextLight">#ffffff</color>
+    <color name="colorSecondaryTextLight">#bfffffff</color>
+    <color name="colorDisabledTextLight">#7fffffff</color>
+    <color name="colorDividersTextLight">#1effffff</color>
+
+    <color name="colorPrimaryTextDark">#dd000000</color>
+    <color name="colorSecondaryTextDark">#7f000000</color>
+    <color name="colorDisabledTextDark">#60000000</color>
+    <color name="colorDividersTextDark">#1e000000</color>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlueGrey">#607D8B</color>
+    <color name="colorGrey">#9E9E9E</color>
+    <color name="colorBrown">#795548</color>
+    <color name="colorDeepOrange">#FF5722</color>
+    <color name="colorOrange">#FF9800</color>
+    <color name="colorAmber">#FFC107</color>
+    <color name="colorYellow">#FFEB3B</color>
+    <color name="colorLime">#CDDC39</color>
+    <color name="colorLightGreen">#8BC34A</color>
+    <color name="colorGreen">#4CAF50</color>
+    <color name="colorTeal">#009688</color>
+    <color name="colorCyan">#00BCD4</color>
+    <color name="colorLightBlue">#03A9F4</color>
+    <color name="colorBlue">#2196F3</color>
+    <color name="colorIndigo">#3F51B5</color>
+    <color name="colorDeepPurple">#673AB7</color>
+    <color name="colorPurple">#9C27B0</color>
+    <color name="colorPink">#E91E63</color>
+    <color name="colorRed">#F44336</color>
+</resources>

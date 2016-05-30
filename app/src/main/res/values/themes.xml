@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme.Hots" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorHotsPrimary</item>
+        <item name="colorPrimaryDark">@color/colorHotsPrimaryDark</item>
+        <item name="colorAccent">@color/colorHotsAccent</item>
+        <item name="android:textColorPrimary">@color/colorPrimaryTextDark</item>
+        <item name="android:textColorSecondary">@color/colorSecondaryTextDark</item>
+    </style>
+
+    <style name="AppTheme.Wow" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorWowPrimary</item>
+        <item name="colorPrimaryDark">@color/colorWowPrimaryDark</item>
+        <item name="colorAccent">@color/colorWowAccent</item>
+        <item name="android:textColorPrimary">@color/colorPrimaryTextDark</item>
+        <item name="android:textColorSecondary">@color/colorSecondaryTextDark</item>
+    </style>
+
+    <style name="AppTheme.Diablo" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorDiabloPrimary</item>
+        <item name="colorPrimaryDark">@color/colorDiabloPrimaryDark</item>
+        <item name="colorAccent">@color/colorDiabloAccent</item>
+        <item name="android:textColorPrimary">@color/colorPrimaryTextDark</item>
+        <item name="android:textColorSecondary">@color/colorSecondaryTextDark</item>
+    </style>
+
+    <style name="AppTheme.StarCraft" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorStarCraftPrimary</item>
+        <item name="colorPrimaryDark">@color/colorStarCraftPrimaryDark</item>
+        <item name="colorAccent">@color/colorStarCraftAccent</item>
+        <item name="android:textColorPrimary">@color/colorPrimaryTextDark</item>
+        <item name="android:textColorSecondary">@color/colorSecondaryTextDark</item>
+    </style>
+
+    <style name="AppTheme.Hearthstone" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorHearthstonePrimary</item>
+        <item name="colorPrimaryDark">@color/colorHearthstonePrimaryDark</item>
+        <item name="colorAccent">@color/colorHearthstoneAccent</item>
+        <item name="android:textColorPrimary">@color/colorPrimaryTextDark</item>
+        <item name="android:textColorSecondary">@color/colorSecondaryTextDark</item>
+    </style>
+
+    <style name="AppTheme.Overwatch" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorOverwatchPrimary</item>
+        <item name="colorPrimaryDark">@color/colorOverwatchPrimaryDark</item>
+        <item name="colorAccent">@color/colorOverwatchAccent</item>
+        <item name="android:textColorPrimary">@color/colorPrimaryTextDark</item>
+        <item name="android:textColorSecondary">@color/colorSecondaryTextDark</item>
+    </style>
+</resources>

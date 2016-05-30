@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activities.profile.ProfileSettingActivityActivity">
+
+    <item
+        android:id="@+id/action_save"
+        android:icon="@drawable/save_icons"
+        android:orderInCategory="100"
+        android:title="@string/activity_profile_setting_action_save"
+        app:showAsAction="ifRoom" />
+</menu>

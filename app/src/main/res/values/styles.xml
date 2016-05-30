@@ -1,0 +1,93 @@
+<resources>
+    <!-- *************************** HOTS ***************************-->
+    <style name="AppTheme.Base.Hots" parent="AppTheme.Hots">
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="windowActionBarOverlay">true</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowBackground">@color/colorHotsPrimaryLight</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <!-- *************************** Wow ***************************-->
+    <style name="AppTheme.Base.Wow" parent="AppTheme.Wow">
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="windowActionBarOverlay">true</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowBackground">@color/colorWowPrimaryLight</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <!-- *************************** Diablo ***************************-->
+    <style name="AppTheme.Base.Diablo" parent="AppTheme.Diablo">
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="windowActionBarOverlay">true</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowBackground">@color/colorDiabloPrimaryLight</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <!-- *************************** StarCraft ***************************-->
+    <style name="AppTheme.Base.StarCraft" parent="AppTheme.StarCraft">
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="windowActionBarOverlay">true</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowBackground">@color/colorStarCraftPrimaryLight</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <!-- *************************** Hearthstone ***************************-->
+    <style name="AppTheme.Base.Hearthstone" parent="AppTheme.Hearthstone">
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="windowActionBarOverlay">true</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowBackground">@color/colorHearthstonePrimaryLight</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <!-- *************************** Overwatch ***************************-->
+    <style name="AppTheme.Base.Overwatch" parent="AppTheme.Overwatch">
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="windowActionBarOverlay">true</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowBackground">@color/colorOverwatchPrimaryLight</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <!-- *************************** Base application themes ***************************-->
+    <style name="ThemeApp.Hots" parent="AppTheme.Base.Hots" />
+
+    <style name="ThemeApp.Wow" parent="AppTheme.Base.Wow" />
+
+    <style name="ThemeApp.Diablo" parent="AppTheme.Base.Diablo" />
+
+    <style name="ThemeApp.StarCraft" parent="AppTheme.Base.StarCraft" />
+
+    <style name="ThemeApp.Hearthstone" parent="AppTheme.Base.Hearthstone" />
+
+    <style name="ThemeApp.Overwatch" parent="AppTheme.Base.Overwatch" />
+
+    <!-- *************************** General ***************************-->
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="DrawerArrowStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="spinBars">true</item>
+        <item name="color">@android:color/white</item>
+    </style>
+
+    <style name="ThemeApp.Wow.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="ThemeApp.Wow.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

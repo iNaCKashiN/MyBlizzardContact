@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Blizzard Contact</string>
+
+    <!-- *************************** Blizzard game name ***************************-->
+    <string name="overwatch_name">Overwatch</string>
+    <string name="starcraft_name">StarCraft</string>
+    <string name="wow_name">Wow</string>
+    <string name="hots_name">Hots</string>
+    <string name="diablo_name">Diablo</string>
+    <string name="hearthstone_name">Hearthstone</string>
+
+    <!-- *************************** Profile Activity ***************************-->
+    <string name="activity_profile_action_settings">Option du profil</string>
+    <string name="activity_profile_name_activity">Mon profil</string>
+    <string name="activity_profile_photo">Photo de profil</string>
+    <string name="activity_profile_description">Description :</string>
+    <string name="activity_profile_comment">Commentaire :</string>
+    <string name="activity_profile_favorite">favori :</string>
+    <string name="activity_profile_sex">Sexe :</string>
+    <string name="activity_profile_sex_male">Homme</string>
+    <string name="activity_profile_sex_female">Femme</string>
+    <string name="activity_profile_games">Jeux :</string>
+    <string name="activity_profile_btag">BTag :</string>
+    <string name="activity_profile_pseudo">Pseudo :</string>
+    <string name="activity_profile_email">Email :</string>
+    <string name="activity_profile_firstname">Prénom :</string>
+    <string name="activity_profile_name">Nom :</string>
+    <string name="activity_profile_phone">Téléphone :</string>
+    <string name="activity_profile_fields">Champs</string>
+    <string name="activity_profile_values">Valeurs</string>
+    <string name="activity_profile_groups">Groupes</string>
+    <string name="activity_profile_contacts">Contacts</string>
+    <string name="activity_profile_share_profile">Partager le profil</string>
+    <string name="activity_profile_delete_profile">Partager le profil</string>
+    <string name="activity_profile_photo_description">Photo de profil</string>
+    <string name="activity_profile_share_icon_description">Partager ou non les champs quand vous partagez votre profil</string>
+    <string name="title_activity_profile_setting">Option du profil</string>
+
+    <!-- *************************** Profile Setting Activity ***************************-->
+    <string name="activity_profile_setting_photo_icon">Prendre une photo de profil</string>
+    <string name="activity_profile_setting_action_save">Mettre à jour vos données</string>
+
+    <!-- *************************** Photo Activity ***************************-->
+    <string name="title_activity_photo">Photo</string>
+    <string name="activity_photo_gallery">Depuis la gallerie d\'image</string>
+    <string name="activity_photo_take_photo">Prendre une photo</string>
+    <string name="activity_photo_save_icon">Sauvegarder la nouvelle photo</string>
+
+    <!-- *************************** Contacts Activity ***************************-->
+    <string name="title_activity_contacts">Contacts</string>
+    <string name="activity_contacts_add_contact">Ajouter un contact</string>
+    <string name="activity_contacts_show_option_sort">Montrer les choix d\'option de tri</string>
+    <string name="activity_contacts_name">Nom</string>
+    <string name="activity_contacts_sort_by">Trier par :</string>
+
+    <!-- *************************** Groups Activity ***************************-->
+    <string name="title_activity_groups">Groupes</string>
+    <string name="activity_groups_add_group">Ajouter un groupe </string>
+    <string name="activity_groups_number_of_people">Nombre de personne</string>
+    <string name="activity_groups_group_is_favorite">Groupe favori</string>
+    <string name="activity_groups_show_option_sort">Montrer les choix d\'option de tri</string>
+    <string name="activity_groups_sort_by">Trier par :</string>
+    <string name="activity_groups_name">Nom</string>
+
+    <!-- *************************** Contact profile Activity ***************************-->
+    <string name="title_activity_contact_profile">Profil du contact</string>
+    <string name="activity_contact_profile_favorite_icon">Montre si le contact est en favori</string>
+    <string name="activity_contact_profile_comment">Commentaire :</string>
+
+    <!-- *************************** Contact profile Setting Activity ***************************-->
+    <string name="title_activity_contacts_setting">Option du contact</string>
+    <string name="activity_contacts_profile_setting_photo_icon">Prendre une photo pour votre contact</string>
+    <string name="activity_contacts_profile_setting_action_save">Mettre à jour les données de votre contact</string>
+    <string name="activity_contacts_profile_setting_favorite">Mettre le contact en favori</string>
+
+    <!-- *************************** Group Activity ***************************-->
+    <string name="title_activity_group">Groupe</string>
+    <string name="activity_group_favorite_icon">Montre si le groupe est en favori</string>
+    <string name="activity_group_sens_sms">Envoyer un message aux membres du groupe</string>
+
+    <!-- *************************** Sms Group Activity ***************************-->
+    <string name="title_activity_sms_group">Sms de groupe</string>
+    <string name="activity_sms_message">Message :</string>
+    <string name="activity_sms_send_sms">Envoyer sms</string>
+    <string name="activity_sms_group_setting">Option sms</string>
+
+    <!-- *************************** Add new friend Activity ***************************-->
+    <string name="title_activity_add_contact">Ajouter un contact</string>
+    <string name="activity_add_friend">Ajoute un contact</string>
+    <string name="title_activity_share">Partager le profil</string>
+    <string name="activity_share_to">À :</string>
+    <string name="activity_share_new_phone">Ajouter un nouveau numéro de téléphone</string>
+    <string name="activity_share_share_your_profile">Partager son profil</string>
+
+</resources>
